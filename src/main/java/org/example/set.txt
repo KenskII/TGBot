@@ -1,0 +1,2 @@
+name = Simple1123Bot
+code = 7783388205:AAE5wuQiiXGI9TLHTVidpM6ztY1DB4iA3Yc
